@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>henrique-blog</title>
+    <link href="https://henmohr.github.io/blog/feed.xml" rel="self" />
+    <link href="https://henmohr.github.io/blog" />
+    <updated>2026-11-15T16:58:19-03:00</updated>
+    <author>
+        <name>henrique</name>
+    </author>
+    <id>https://henmohr.github.io/blog</id>
+
+    <entry>
+        <title>evolution-crm</title>
+        <author>
+            <name>henrique</name>
+        </author>
+        <link href="https://henmohr.github.io/blog/evolution-crm/"/>
+        <id>https://henmohr.github.io/blog/evolution-crm/</id>
+
+        <updated>2026-11-15T16:58:19-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Confira o video que fiz demonstrando o evolution-crm (sem som). Em breve um video completo!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Confira o video que fiz demonstrando o evolution-crm (sem som).</p>
+<p>Em breve um video completo!</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/H3zgxePyzIk?feature=youtu" allowfullscreen="allowfullscreen"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Olá, mundo!</title>
+        <author>
+            <name>henrique</name>
+        </author>
+        <link href="https://henmohr.github.io/blog/ola-mundo/"/>
+        <id>https://henmohr.github.io/blog/ola-mundo/</id>
+
+        <updated>2026-11-15T16:15:43-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Quem nunca..
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Quem nunca..</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
